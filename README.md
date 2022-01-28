@@ -1,5 +1,7 @@
 # Kubernetes Autoscaler
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7fe38ceb-d0b8-4e9f-af76-b67897facc75.svg?orgId=233256683269)](https://app.soluble.cloud/repos/details/github.com/lexis55/autoscaler?orgId=233256683269)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/5714df53-86ed-4155-a98b-6bf1388ded0e.svg?orgId=233256683269)](https://app.soluble.cloud/repos/details/github.com/lexis55/autoscaler?orgId=233256683269)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/c44365c9-88e7-4015-9658-8968629dc707.svg?orgId=233256683269)](https://app.soluble.cloud/repos/details/github.com/lexis55/autoscaler?orgId=233256683269)  
+
 [![Release Charts](https://github.com/kubernetes/autoscaler/actions/workflows/release.yaml/badge.svg)](https://github.com/kubernetes/autoscaler/actions/workflows/release.yaml) [![Tests](https://github.com/kubernetes/autoscaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/kubernetes/autoscaler/actions/workflows/ci.yaml) [![GoDoc Widget]][GoDoc]
 
 This repository contains autoscaling-related components for Kubernetes.
